@@ -22,6 +22,10 @@ SwiftUIMVVMFolderArchitecture/
 ├── Services/
 │   └── NetworkService.swift
 │
+├── Theme/             
+│   ├── AppTheme.swift
+│   └── ThemeManager.swift
+│
 ├── Utils/
 │   └── Constant.swift
 │
